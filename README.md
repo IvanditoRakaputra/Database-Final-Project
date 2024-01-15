@@ -25,6 +25,9 @@ pass: sammy1234
 You can use the information aabove to log in but you can also sign up or add new accounts from the admin role.
 
 All members blog pages:
+
 Alya Nursalma Ridwan - 2602184265 = https://sites.google.com/view/alya-dbt-project?usp=sharing 
+
 Ivandito Rakaputra - 2602119303 = 
+
 Joanne TAntra - 2602127766 = 
