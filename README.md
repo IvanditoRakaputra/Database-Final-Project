@@ -28,6 +28,6 @@ All members blog pages:
 
 Alya Nursalma Ridwan - 2602184265 = https://sites.google.com/view/alya-dbt-project?usp=sharing 
 
-Ivandito Rakaputra - 2602119303 = 
+Ivandito Rakaputra - 2602119303 = https://sites.google.com/view/ivandatabasetechnology?usp=sharing
 
 Joanne TAntra - 2602127766 = 
